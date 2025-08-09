@@ -28,9 +28,17 @@
 
 ### 📹 **Application Demo Video**
 
-https://github.com/MuhammadQasim111/HelpDesK/assets/demo-video.mp4
+https://user-images.githubusercontent.com/demo-video.mp4
+
+**📺 Click to watch the demo:**
+
+[![HelpDesk Demo](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](./demo-video.mp4)
 
 *Watch the HelpDesk application in action! This demo showcases the key features and user interface.*
+
+**Alternative viewing options:**
+- 📥 [Download Demo Video](./demo-video.mp4) (Right-click → Save as)
+- 🎬 [View Raw Video File](https://github.com/MuhammadQasim111/HelpDesK/blob/main/demo-video.mp4)
 
 ### 🖼️ **Screenshots**
 ![HelpDesk Dashboard](https://via.placeholder.com/800x400/4f46e5/ffffff?text=HelpDesk+Dashboard)
