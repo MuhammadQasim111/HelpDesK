@@ -26,6 +26,13 @@
 
 ## 🚀 Demo
 
+### 📹 **Application Demo Video**
+
+https://github.com/MuhammadQasim111/HelpDesK/assets/demo-video.mp4
+
+*Watch the HelpDesk application in action! This demo showcases the key features and user interface.*
+
+### 🖼️ **Screenshots**
 ![HelpDesk Dashboard](https://via.placeholder.com/800x400/4f46e5/ffffff?text=HelpDesk+Dashboard)
 
 > **Live Demo:** [Coming Soon] - Deploy to see it in action!
